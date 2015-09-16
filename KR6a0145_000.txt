@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 佛說玉耶女經
+#+DATE: 2015-08-30 19:32:51.969471
+#+PROPERTY: JUAN 0
